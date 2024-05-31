@@ -1,6 +1,6 @@
 #include <iostream>
 
-consteval const char* name(){
+constexpr const char* name(){
     return "Mark Mitri";
     // because this return type is a const char, the function must match the type
 }
