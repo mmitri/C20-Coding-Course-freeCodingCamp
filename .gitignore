@@ -1,2 +1,9 @@
+# ignores configuration folder for VSC
 .vscode/
+
+# ingnore compiler files
+*.exe
+*.ilk
+*.obj
+*.pdb
 
