@@ -32,3 +32,10 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
    - [Fractional Numbers](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Variables%20and%20Data%20Types/fractionNums.cpp): All about floats, doubles, precision, scientific notation, infinity, NaN and their size in memory
    - [Integer Modifications](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Variables%20and%20Data%20Types/intMods.cpp): All about unsigned, signed, shorts, longs, and their size in memory
    - [The Number System](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Variables%20and%20Data%20Types/numberSys.cpp): How to represent numbers in binary, hexadecimal, octal, decimal and their size in memory
+4. *Operations on Data*
+   -[Basic Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/basicOps.cpp): Basic mathematical operations on integers
+   -[Compound Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/compoundOps.cpp): Compound operations (assigning mathematical operations in one line)
+   -[Logical Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/logicalOps.cpp): Logical operations, expressions, and combinations
+   -[Precedence and Associativity](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/precedenceAssociativity.cpp): Precedence and Associativity in C++
+   -[Pre & Postfix Expressions](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/prepostFix.cpp): Pre and Postfix Expressions
+   -[Relational Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/relationalOps.cpp): Relational Operations
