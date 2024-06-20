@@ -36,6 +36,9 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
    -[Basic Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/basicOps.cpp): Basic mathematical operations on integers
    -[Compound Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/compoundOps.cpp): Compound operations (assigning mathematical operations in one line)
    -[Logical Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/logicalOps.cpp): Logical operations, expressions, and combinations
+   -[Mathematical Functions](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/mathFunc.cpp): Using the cmath library to show functions like floor, abs, ceil, pow, sqrt, exp, and round
+   -[Numerical Limits](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/numLimits.cpp): Finding the representative limits of data types using numeric_limit<>::()
+   -[Output Formatting](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/outputFormat.cpp): Formats for the iostream including, endl, flush, setw, right, left, internal, setfill, showpos, dec, hex, oct, and uppercase
    -[Precedence and Associativity](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/precedenceAssociativity.cpp): Precedence and Associativity in C++
    -[Pre & Postfix Expressions](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/prepostFix.cpp): Pre and Postfix Expressions
    -[Relational Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/relationalOps.cpp): Relational Operations
