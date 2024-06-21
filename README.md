@@ -2,7 +2,7 @@
 # C\+\+20 Programming course from freeCodingCamp
 Source: [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 
-This repository contains example code from the tutorial above. Each folder contains various example files demonstrating different C++20 features.
+This repository contains code following the tutorial above. Each folder contains various example files demonstrating different C++20 features.
 
 ## How to Run the Code
 
@@ -41,4 +41,7 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
    -[Output Formatting](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/outputFormat.cpp): Formats for the iostream including, endl, flush, setw, right, left, internal, setfill, showpos, dec, hex, oct, and uppercase
    -[Precedence and Associativity](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/precedenceAssociativity.cpp): Precedence and Associativity in C++
    -[Pre & Postfix Expressions](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/prepostFix.cpp): Pre and Postfix Expressions
-   -[Relational Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/relationalOps.cpp): Relational Operations
+   -[Relational Operations](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Operations%20on%20Data/relationalOps.cpp): Relational Operations such as equals, greater than, less than, etc.
+5. *Flow Control*
+   -[If Statements](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Flow%20Control/ifStatement.cpp): All about single, nested, and conditonal if statements
+   -[Switch Statements](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Flow%20Control/switchStatement.cpp): All about switch statements
