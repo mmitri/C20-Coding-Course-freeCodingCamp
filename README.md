@@ -45,3 +45,6 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
 5. *Flow Control*
    - [If Statements](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Flow%20Control/ifStatement.cpp): All about single, nested, and conditonal if statements
    - [Switch Statements](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Flow%20Control/switchStatement.cpp): All about switch statements
+   - [Ternary Operation](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Flow%20Control/ternaryOp.cpp): Using ternary operations in place of if statements
+6. *Loops*
+   - [For Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/forLoop.cpp): The structure of for loops and using size_t as the type declaration for the iterator
