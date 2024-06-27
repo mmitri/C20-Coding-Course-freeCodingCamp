@@ -50,3 +50,5 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
    - [For Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/forLoop.cpp): The structure of for loops and using size_t as the type declaration for the iterator
    - [While Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/whileLoop.cpp): The structure of while loops
    - [Do while Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/doWhileLoop.cpp): The structure of do while loops
+7. *Arrays*
+   - [Intro to Arrays](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Arrays/introArray.cpp): Declaring, assigning, printing, initializing, and summing arrays
