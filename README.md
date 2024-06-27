@@ -49,3 +49,4 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
 6. *Loops*
    - [For Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/forLoop.cpp): The structure of for loops and using size_t as the type declaration for the iterator
    - [While Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/whileLoop.cpp): The structure of while loops
+   - [Do while Loops](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Loops/doWhileLoop.cpp): The structure of do while loops
