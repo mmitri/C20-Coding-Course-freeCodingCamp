@@ -13,7 +13,9 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
 3. **Compile the code using `g++`:**
    ```sh
    g++ -std=c++20 -o output_file_name source_file_name.cpp
-4. **Run the executable**
+4. **Run the executable:**
+   ```sh
+   .\output_file_name
 
 ## Table of Contents 
 
