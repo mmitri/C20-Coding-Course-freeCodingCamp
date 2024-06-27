@@ -18,9 +18,9 @@ int main(){
         cout << "Single statement in body of for loop, so no need for {}" << endl;
 
     for(i;i<learnCppCOUNT;++i){
-        cout << boolalpha << "I love learning about C++ | i = " << i << " < 10?: " << (i < 10) << endl;
+        cout << boolalpha << "I love learning about C++ | i = " << i << " < 10?: " << (i < learnCppCOUNT) << endl;
     }    
-    cout << boolalpha << "i = " << i << " < 10?: " << (i < 10) << endl; 
+    cout << boolalpha << "i = " << i << " < 10?: " << (i < learnCppCOUNT) << endl; 
     // We can print this statement because the iterator i has been declared outside the for loop
     return 0;
 }
