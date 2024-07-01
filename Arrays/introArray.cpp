@@ -30,6 +30,8 @@ int main(){
     for(size_t i=0;i<5;i++){
         cout << "salaries[" << i << "]: "<< salaries[i] << endl;
     }
+    cout << "======================Printing array using cout==================" << endl;
+    cout << "salaries: " << salaries << endl;
     cout << "=================Initializing some elements======================" << endl;
     int families[5] = {12, 4, 5};
     for(size_t i=0;i<5;i++){
