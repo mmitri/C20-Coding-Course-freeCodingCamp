@@ -9,18 +9,17 @@ int main(){
     long double number3 = 1.12345678901234567890L; // precision = 20
 
     // Size of types
+    cout << "==============Size of types==============" << endl;
     cout << "sizeof float: " << sizeof(number1) << endl;
     cout << "sizeof double: " << sizeof(number2) << endl;
     cout << "sizeof long double: " << sizeof(number3) << endl;
-    cout << "==============Size of types==============" << endl;
 
     // Precision
+    cout << "==============Float Problems==============" << endl;
     cout << setprecision(20); // control the precision from std::cout
     cout << "number1 is: " << number1 << endl;
     cout << "number2 is: " << number2 << endl;
     cout << "number3 is: " << number3 << endl;
-    cout << "==============Float Problems==============" << endl;
-
     // Float problems
     float num4 = 192400023.0f; // Error with narroring conversion because 
     // value is bigger than the size alloted for a float type
