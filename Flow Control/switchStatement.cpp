@@ -1,4 +1,5 @@
 #include <iostream>
+#include <limits>
 using namespace std;
 
 // Tools
@@ -52,6 +53,8 @@ int main(){
         cin >> tool;
         validTool = (tool == Pen || tool == Marker || tool == Eraser || tool == Rectangle || tool == Circle || tool == Ellipse);
         if (!validTool) {
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
             cout << "Invalid tool selected. Please try again." << endl;
         }
     }selectTool(tool);
