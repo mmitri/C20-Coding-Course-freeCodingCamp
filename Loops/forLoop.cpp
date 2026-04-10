@@ -10,10 +10,10 @@ int main(){
         to be aware of the potential pitfalls of unsigned arithmetic and the need 
         for careful handling of loop conditions to avoid unexpected behavior.
     */
-    const size_t singleLoopCOUNT = 1;
-    const size_t learnCppCOUNT = 10;
+    const std::size_t singleLoopCOUNT = 1;
+    const std::size_t learnCppCOUNT = 10;
     unsigned int integer = 0;
-    size_t i = 0;
+    std::size_t i = 0;
     for(integer;integer<singleLoopCOUNT;++integer)
         cout << "Single statement in body of for loop, so no need for {}" << endl;
 
