@@ -14,7 +14,7 @@ int main(){
     cout << num2 << " - " << num3 << " = " << num2 - num3 << endl;
     cout << num4 << " * " << num5 << " = " << num4 * num5 << endl;
     cout << num5 << " / " << num6 << " = " << num5 / num6 << endl;
-    cout << num5 << " % " << num6 << " = " << num5 % num6 << endl;
+    cout << num5 << " % " << num6 << " = " << num5 % num6 << endl; // modulus operator gives the remainder of the division
 
     return 0;
 }
