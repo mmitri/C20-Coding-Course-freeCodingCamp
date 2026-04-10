@@ -5,7 +5,7 @@ int main(){
     int scores [] {1,2,3,4,5,6,7,8,9,10,11,12};
 
     cout << "==================Printing array with set size==================" << endl;
-    for(size_t i=0;i<10;i++){
+    for(std::size_t i=0;i<10;i++){
         cout << "scores[" << i << "]: " << scores[i] << endl;
     }
 
@@ -17,7 +17,7 @@ int main(){
     cout << "=================Printing array with size > C++17===============" << endl;
     int count {size(scores)}; // from C++17 with std::size()
     cout << "size(scores): " << count << endl;
-    for(size_t i=0;i<count;i++){
+    for(std::size_t i=0;i<count;i++){
         cout << "scores[" << i << "]: " << scores[i] << endl;
     }
 

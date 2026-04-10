@@ -6,7 +6,7 @@ int main(){
     int score[10]; // Junk Data
 
     cout << "===================Printing (junk) Empty Array===================" << endl;
-    for(size_t i=0;i<10;i++){
+    for(std::size_t i=0;i<10;i++){
         cout << "score[" << i << "]: "<< score[i] << endl;
     }
     cout << "================Assigning Data Manually to Array=================" << endl;
@@ -14,12 +14,12 @@ int main(){
     score[2] = 12;
     score[1] = 22;
     // Printing Data out
-    for(size_t i=0;i<10;i++){
+    for(std::size_t i=0;i<10;i++){
         cout << "score[" << i << "]: "<< score[i] << endl;
     }
     cout << "=====================Assigning Data to Array=====================" << endl;
     // Assigning Data to array
-    for(size_t i=0;i<10;i++){
+    for(std::size_t i=0;i<10;i++){
         score[i] = i * 12;
         cout << "score[" << i << "]: "<< score[i] << endl;
     }
@@ -27,14 +27,14 @@ int main(){
     cout << "score[11]?: " << score[11] << endl;
     cout << "====================Declaring and Assigning======================" << endl;
     double salaries[5] = {12.7,7.5,13.2,8.1,9.3};
-    for(size_t i=0;i<5;i++){
+    for(std::size_t i=0;i<5;i++){
         cout << "salaries[" << i << "]: "<< salaries[i] << endl;
     }
     cout << "======================Printing array using cout==================" << endl;
     cout << "salaries: " << salaries << endl;
     cout << "=================Initializing some elements======================" << endl;
     int families[5] = {12, 4, 5};
-    for(size_t i=0;i<5;i++){
+    for(std::size_t i=0;i<5;i++){
         cout << "families[" << i << "]: "<< families[i] << endl;
     }
     cout << "====================Omiting size of array========================" << endl;
