@@ -8,8 +8,8 @@ int sumFunction(int first_num, int second_num){
 
 // challenge from video
 int multiplyFunction(int first_num, int second_num){
-    int sum = first_num * second_num;
-    return sum;
+    int product = first_num * second_num;
+    return product;
 }
 
 int main(){
