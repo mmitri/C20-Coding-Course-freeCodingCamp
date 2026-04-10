@@ -7,8 +7,8 @@ consteval int get_value(){
 
 int main(){ // starting point of the program, ran from top to bottom
     constexpr int value = get_value();
-    std::cout << "Number 1.";
-    std::cout << "value: " << value << std::endl; // endl prints a new line
-    std::cout << "Number 2.";
+    std::cout << "Number 1." << std::endl;
+    std::cout << "Value: " << value << std::endl; // endl prints a new line
+    std::cout << "Number 2." << std::endl;
     return 0; // sends information to OS of if program is successful
 }
