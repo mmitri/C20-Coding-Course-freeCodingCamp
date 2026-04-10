@@ -8,8 +8,8 @@ int main(){
     double expo = exp(10);
 
     cout << "=============floor=============" << endl;
-    cout << "Weight floor is: " << floor(weight) << endl;
-    cout << "Weight ceil is: " << ceil(weight) << endl;
+    cout << "Weight floor is: " << floor(long double(weight)) << endl;
+    cout << "Weight ceil is: " << ceil(long double(weight)) << endl;
 
     cout << "==============abs==============" << endl;
     cout << "Weight abs is: " << abs(weight) << endl;
@@ -27,6 +27,6 @@ int main(){
     cout << "The square root of 81 is: " << sqrt(81) << endl;
 
     cout << "=============round=============" << endl;
-    cout << "3.654 rounded is: " << round(3.654) << endl;
+    cout << "3.654 rounded is: " << round(long double(3.654)) << endl;
     return 0;
 }
