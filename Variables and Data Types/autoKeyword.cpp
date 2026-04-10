@@ -12,14 +12,14 @@ int main(){
     auto var7 = 123ul;
     auto var8 = 123ll;
 
-    cout << "sizeof(var1): " << sizeof(var1) << " bytes" << endl;
-    cout << "sizeof(var2): " << sizeof(var2) << " bytes" << endl;
-    cout << "sizeof(var3): " << sizeof(var3) << " bytes" << endl;
-    cout << "sizeof(var4): " << sizeof(var4) << " bytes" << endl;
-    cout << "sizeof(var5): " << sizeof(var5) << " bytes" << endl;
-    cout << "sizeof(var6): " << sizeof(var6) << " bytes" << endl;
-    cout << "sizeof(var7): " << sizeof(var7) << " bytes" << endl;
-    cout << "sizeof(var8): " << sizeof(var8) << " bytes" << endl;
+    cout << "sizeof(" << var2 << ")  int:           " << sizeof(var2) << " bytes" << endl;
+    cout << "sizeof(" << var3 << ")  double:        " << sizeof(var3) << " bytes" << endl;
+    cout << "sizeof(" << var4 << ")  float:         " << sizeof(var4) << " bytes" << endl;
+    cout << "sizeof(" << var5 << ")   long double:   " << sizeof(var5) << " bytes" << endl;
+    cout << "sizeof(" << var6 << ") char:          " << sizeof(var6) << " bytes" << endl;
+    cout << "sizeof(" << var7 << ") unsigned int:  " << sizeof(var7) << " bytes" << endl;
+    cout << "sizeof(" << var8 << ") unsigned long: " << sizeof(var8) << " bytes" << endl;
+    cout << "sizeof(" << var1 << ")  long long:     " << sizeof(var1) << " bytes" << endl;
 
     return 0;
 }
