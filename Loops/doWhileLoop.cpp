@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    const size_t COUNT = 10;
-    size_t integer = 0;
+    const std::size_t COUNT = 10;
+    std::size_t integer = 0;
 
     // Main difference: do while loops run the body and then check the test condition.
     do{
@@ -11,6 +11,7 @@ int main(){
         ++integer;
     }while(integer < COUNT);
     cout << "do while loop completed." << endl;
+    cout << boolalpha << "I love learning about C++ | i = " << integer << " < 10?: " << (integer < COUNT) << endl;
 
     return 0;
 }
