@@ -15,6 +15,8 @@ int main(){
     char value = 74; // ASCII code for 'J'
     cout << "value: " << value << endl;
     cout << "value(int): " << static_cast<int>(value) << endl;
+    cout << "sizeof(value[char]): " << sizeof(value) << " byte" << endl;
+    cout << "sizeof(value[int]): " << sizeof(static_cast<int>(value)) << " byte" << endl;
 
     return 0;
 }
