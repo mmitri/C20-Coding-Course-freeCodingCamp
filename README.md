@@ -56,3 +56,5 @@ To run the C++ files in this repository, you will need a C++ compiler that suppo
    - [Intro to Arrays](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Arrays/introArray.cpp): Declaring, assigning, printing, initializing, and summing arrays
    - [Size of Arrays](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Arrays/sizeArray.cpp): How to calculate the size of an array (pre and post C++17) and how to print accordingly
    - [Character Arrays](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Arrays/charArrays.cpp): All about character arrays and null termination
+8. *Pointers*
+   - [Declare and Use Pointers](https://github.com/mmitri/C20-Coding-Course-freeCodingCamp/blob/main/Pointers/pointers.cpp): What is a pointer and how to create pointer variables {10:14:49}
