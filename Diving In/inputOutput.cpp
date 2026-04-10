@@ -8,7 +8,7 @@ int main(int argc, char** argv){
     // std is like a highway to the terminal/console
     char val;
     cout << "This message is printed to the console" << endl;
-    cout << "Inputing data... ";
+    cout << "Inputing char... ";
     cin >> val;
     cout << val << endl;
     cerr << "std::cerr output : This message is an error!" << endl;
